@@ -36,8 +36,8 @@ public class RazAPP {
         servRaz.actualizarRaza(1);
         servRaz.mostrarRaza();
         
-        servRaz.eliminarRaza(1);
-        servRaz.mostrarRaza();
+//        servRaz.eliminarRaza(1);
+//        servRaz.mostrarRaza();
         
     }
 
